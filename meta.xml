@@ -1,0 +1,5 @@
+<meta>
+ <info author = "Monio" version = "1.0" name = "Panel Logowania Dla Gtao"/>
+ <script src="c.lua" type="client"/>
+ <script src="s.lua" type="server"/>
+</meta>
